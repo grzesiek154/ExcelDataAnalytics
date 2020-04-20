@@ -1,0 +1,1 @@
+![image-20200108154418310](C:\Users\gmalarski\AppData\Roaming\Typora\typora-user-images\image-20200108154418310.png)
