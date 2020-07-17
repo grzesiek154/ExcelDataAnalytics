@@ -1,0 +1,1 @@
+Upper limit is not included in the class (category) and the Lowe Limit is included
