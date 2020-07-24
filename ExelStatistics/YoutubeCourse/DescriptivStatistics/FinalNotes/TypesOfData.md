@@ -2,6 +2,8 @@
 
 Statistics is the art and science of collecting, analyzing, presenting and interpreting data to help make informed decisions.
 
+![image-20200723101716967](C:\Users\grzeg\AppData\Roaming\Typora\typora-user-images\image-20200723101716967.png)
+
 # Descriptive Statistics:
 
 ## Raw Data that is summarized and presented:
@@ -152,13 +154,13 @@ Categories, labels or names are used to identify an attribute or characteristics
 
 ### Discrete
 
-- Answers the question How Many?
+- Answers the question How Many? (dane policzalne)
 - Involves Counting
 - There are gaps between numbers, like: 1, 2, 3 or 1.2, 1.3, 1.4
 
 ### Continuous:
 
-- Answers the question How Much?
+- Answers the question How Much? (dane nie policzalne)
 - Involves Measuring
 - The measurement depends on the measurement instrument
 - There are no gaps between numbers
